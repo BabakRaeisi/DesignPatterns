@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\structuralpatterns\\2-decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structuralpatterns\\2-decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\structuralpatterns\\1-adapter(wrapper)\\adapterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structuralpatterns\\1-adapter(wrapper)\\adapterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\structuralpatterns\\1-adapter(wrapper)\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structuralpatterns\\1-adapter(wrapper)\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\5-builderpattern\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\5-builderpattern\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\4-prototypepattern\\gameexample\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\4-prototypepattern\\gameexample\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\4-prototypepattern\\prototypepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\4-prototypepattern\\prototypepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\3-abstractfactory\\example\\themechangerexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\3-abstractfactory\\example\\themechangerexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\3-oppositeofabstractfactory\\directobjectinstantiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\3-oppositeofabstractfactory\\directobjectinstantiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\3-abstractfactory\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\3-abstractfactory\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\2-factorymethod\\transportationexample\\logisticscompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\2-factorymethod\\transportationexample\\logisticscompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\2-factorymethod\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\2-factorymethod\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\0-interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\0-interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\creationalpatterns\\1-simplefactory\\simplefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\creationalpatterns\\1-simplefactory\\simplefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\user\\source\\repos\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98236981-7071-4ED8-8208-718F0112DCD5}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\StructuralPatterns\\2-Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\StructuralPatterns\\2-Decorator\\Decorator.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\StructuralPatterns\\2-Decorator\\Decorator.cs",
+              "RelativeToolTip": "DesignPatterns\\StructuralPatterns\\2-Decorator\\Decorator.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAADwv3kAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:42:43.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdapterExample.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\StructuralPatterns\\1-Adapter(wrapper)\\AdapterExample.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\StructuralPatterns\\1-Adapter(wrapper)\\AdapterExample.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\StructuralPatterns\\1-Adapter(wrapper)\\AdapterExample.cs",
+              "RelativeToolTip": "DesignPatterns\\StructuralPatterns\\1-Adapter(wrapper)\\AdapterExample.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvwkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:38:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\StructuralPatterns\\1-Adapter(wrapper)\\Adapter.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\StructuralPatterns\\1-Adapter(wrapper)\\Adapter.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\StructuralPatterns\\1-Adapter(wrapper)\\Adapter.cs",
+              "RelativeToolTip": "DesignPatterns\\StructuralPatterns\\1-Adapter(wrapper)\\Adapter.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA9wGIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:34:25.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\5-BuilderPattern\\Builder.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\5-BuilderPattern\\Builder.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\5-BuilderPattern\\Builder.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\5-BuilderPattern\\Builder.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAFAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:30:54.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\4-PrototypePattern\\GameExample\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\4-PrototypePattern\\GameExample\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\4-PrototypePattern\\GameExample\\GameCharacter.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\4-PrototypePattern\\GameExample\\GameCharacter.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA/wCwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:16:24.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrototypePattern.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\4-PrototypePattern\\PrototypePattern.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\4-PrototypePattern\\PrototypePattern.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\4-PrototypePattern\\PrototypePattern.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\4-PrototypePattern\\PrototypePattern.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:12:33.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThemeChangerExample.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\3-AbstractFactory\\Example\\ThemeChangerExample.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\3-AbstractFactory\\Example\\ThemeChangerExample.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\3-AbstractFactory\\Example\\ThemeChangerExample.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\3-AbstractFactory\\Example\\ThemeChangerExample.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAxwLUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:57:57.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DirectObjectInstantiation.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\3-OppositeOfAbstractFactory\\DirectObjectInstantiation.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\3-OppositeOfAbstractFactory\\DirectObjectInstantiation.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\3-OppositeOfAbstractFactory\\DirectObjectInstantiation.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\3-OppositeOfAbstractFactory\\DirectObjectInstantiation.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwFwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:51:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\3-AbstractFactory\\AbstractFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\3-AbstractFactory\\AbstractFactory.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\3-AbstractFactory\\AbstractFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\3-AbstractFactory\\AbstractFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:42:03.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogisticsCompany.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\2-FactoryMethod\\TransportationExample\\LogisticsCompany.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\2-FactoryMethod\\TransportationExample\\LogisticsCompany.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\2-FactoryMethod\\TransportationExample\\LogisticsCompany.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\2-FactoryMethod\\TransportationExample\\LogisticsCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:34:36.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\0-interface\\IProduct.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\0-interface\\IProduct.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\0-interface\\IProduct.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\0-interface\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:27:04.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FactoryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\2-FactoryMethod\\FactoryMethod.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\2-FactoryMethod\\FactoryMethod.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\2-FactoryMethod\\FactoryMethod.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\2-FactoryMethod\\FactoryMethod.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:18:06.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimpleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\1-SimpleFactory\\SimpleFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CreationalPatterns\\1-SimpleFactory\\SimpleFactory.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\CreationalPatterns\\1-SimpleFactory\\SimpleFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\CreationalPatterns\\1-SimpleFactory\\SimpleFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:10:32.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:04:03.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
