@@ -10,12 +10,15 @@ using System.Xml.Linq;
 namespace DesignPatterns.CreationalPatterns.AbstractFactory
 {
     /* Abstract Factory Pattern
-     The Abstract Factory pattern provides an interface for creating families of related or dependent objects
-    without specifying their concrete classes.This pattern is useful when a system needs to be independent of
-    how its objects are created and composed, or when the creation process involves multiple types of related objects.
+     The Abstract Factory pattern provides an interface for creating families of related 
+    or dependent objects without specifying their concrete classes.
+    This pattern is useful when a system needs to be independent of
+    how its objects are created and composed, or when the creation process involves
+    multiple types of related objects.
 
      Example Scenario
-  Consider a furniture store that produces different types of furniture sets.Each set includes a chair and a sofa.
+  Consider a furniture store that produces different types of furniture sets.
+    Each set includes a chair and a sofa.
     The store offers modern and Victorian styles of furniture.
 
      Implementation

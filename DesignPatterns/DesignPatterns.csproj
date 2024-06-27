@@ -53,11 +53,15 @@
     <Compile Include="CreationalPatterns\4-PrototypePattern\GameExample\GameCharacter.cs" />
     <Compile Include="CreationalPatterns\4-PrototypePattern\PrototypePattern.cs" />
     <Compile Include="CreationalPatterns\5-BuilderPattern\Builder.cs" />
+    <Compile Include="CreationalPatterns\ListOfPatterns.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StructuralPatterns\1-Adapter%28wrapper%29\Adapter.cs" />
     <Compile Include="StructuralPatterns\1-Adapter%28wrapper%29\AdapterExample.cs" />
     <Compile Include="StructuralPatterns\2-Decorator\Decorator.cs" />
+    <Compile Include="StructuralPatterns\3-Composite\CompositePattern.cs" />
+    <Compile Include="StructuralPatterns\4-Facade\Facade.cs" />
+    <Compile Include="StructuralPatterns\5-Flyweight\Flyweight.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
